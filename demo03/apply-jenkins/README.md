@@ -39,4 +39,13 @@ kubectl logs -f  -n jenkins -l app=jenkins
 
 Remember that the Sonarqube url must be `sonarqube.sonarqube:9000/sonar`.
 
+> 7. Install Sonarqube plugin
+
+<div align="center">
+<img src="screenshots/sonarqube-plugin.png">
+<i>sonarqube scanner plugin</i>
+</div>
+
+> 8. 
+
 `Go to` [Demo04](../../demo04/multi-branch-plugin/README.md)

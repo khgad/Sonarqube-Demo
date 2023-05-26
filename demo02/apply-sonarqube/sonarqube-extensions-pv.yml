@@ -10,4 +10,5 @@ spec:
   accessModes:
     - ReadWriteOnce
   hostPath:
-    path: "/Users/admin/Desktop/elkasaby/ITI/sonarqube/demo02/apply-sonarqube/sonarqube-extensions"
+    # path: "/Users/admin/Desktop/elkasaby/ITI/sonarqube/demo02/apply-sonarqube/sonarqube-extensions"
+    path: "/sonarqube/sonarqube-extensions"

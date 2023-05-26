@@ -10,4 +10,5 @@ spec:
   accessModes:
     - ReadWriteOnce
   hostPath:
-    path: "/Users/admin/Desktop/elkasaby/ITI/sonarqube/demo01/apply-postgressql/sonarqube-postgress"
+    # path: "/Users/admin/Desktop/elkasaby/ITI/sonarqube/demo01/apply-postgressql/sonarqube-postgress"
+    path: "/sonarqube-postgress"

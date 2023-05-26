@@ -37,4 +37,10 @@ kubectl get all -n sonarqube
 
 kubectl logs -f  -n sonarqube -l name=sonar-postgres
 ```
+
+<div align="center">
+<img src="screenshots/postgress-status.png">
+<i>postgress is running</i>
+</div>
+
 `Go to` [Demo02](../../demo02/apply-sonarqube/README.md)

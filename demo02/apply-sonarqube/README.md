@@ -79,4 +79,11 @@ kubectl get all -n sonarqube
 kubectl logs -f  -n sonarqube -l name=sonarqube
 ```
 
+<div align="center">
+<img src="screenshots/sonarqube-login-page.png">
+<i>sonarqube login page</i>
+</div>
+
+note: `admin` is the default username and password 
+
 `Go to` [Demo03](../../demo03/apply-jenkins/README.md)
